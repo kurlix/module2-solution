@@ -76,21 +76,12 @@ h2{
 
 
 
-
 /********** Large devices only **********/
 @media (min-width: 1000px) {
 
 	.col-thierd  {
     width: 33.33%;
 	float: left;
-	}
-
-	.row { 
-		  display: flex; 
-		flex-direction: row; 
-	}
-	.wrap {
-		flex:4;
 	}
 
 	.m1 {
